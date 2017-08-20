@@ -11,4 +11,4 @@ Getting Started
 In order to start using that app, please create a Configuration.php file in src/ folder.
 User should include four variables: $dbName, $dbHost, $dbUsername and $dbUserPassword.
 In the desired database, user should create `person` table with five columns: id, name, surname, cell_number, 
-home-number and business_number.
+home_number and business_number.
