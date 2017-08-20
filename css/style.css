@@ -1,0 +1,44 @@
+body {
+    font-family: 'Amatic SC', sans-serif;
+    font-size: xx-large;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/7f/32/22/7f32228e146b5842f4080ad9c51c1cae.jpg);
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar p {
+    float: none;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 18px 8px;
+    text-decoration: none;
+    font-size: 60px;
+}
+
+.main {
+    padding: 16px;
+    margin-top: 80px;
+}
+
+tr:nth-child(even) {
+    background: #CCC;
+}
+
+thead tr {
+    background: #CCC;
+}
+
+form input, button {
+    font-family: 'Amatic SC', sans-serif;
+}
+
+.btn {
+    font-size: x-large;
+}
